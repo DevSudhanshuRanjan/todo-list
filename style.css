@@ -1,0 +1,101 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-family: "Geist", serif;
+}
+body {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1003%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M180.79%2c253.616C198%2c253.116%2c214.788%2c246.718%2c223.925%2c232.125C233.636%2c216.614%2c235.749%2c196.617%2c226.283%2c180.956C217.085%2c165.738%2c198.556%2c160.018%2c180.79%2c160.761C164.385%2c161.447%2c150.338%2c170.703%2c141.441%2c184.503C131.577%2c199.803%2c124.072%2c218.947%2c133.079%2c234.767C142.147%2c250.694%2c162.47%2c254.149%2c180.79%2c253.616' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1317.4134446396952 220.52360968037328L1252.0265551789446 348.85260585834624 1380.3555513569177 414.2394953190968 1445.7424408176682 285.9104991411238z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M282.809%2c474.884C301.157%2c473.865%2c314.441%2c459.184%2c323.186%2c443.022C331.428%2c427.79%2c333.853%2c410.191%2c326.23%2c394.64C317.559%2c376.949%2c302.501%2c360.014%2c282.809%2c360.644C263.74%2c361.254%2c253.277%2c380.631%2c243.946%2c397.272C234.91%2c413.386%2c225.561%2c431.466%2c233.833%2c447.986C242.771%2c465.836%2c262.877%2c475.991%2c282.809%2c474.884' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M972.233%2c543.767C991.328%2c544.45%2c1010.664%2c536.326%2c1019.958%2c519.632C1029.048%2c503.304%2c1024.277%2c483.606%2c1014.637%2c467.596C1005.35%2c452.173%2c990.214%2c441.259%2c972.233%2c440.374C952.545%2c439.405%2c931.484%2c445.794%2c921.927%2c463.034C912.573%2c479.908%2c919.873%2c500.043%2c930.076%2c516.417C939.57%2c531.654%2c954.291%2c543.125%2c972.233%2c543.767' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1180.0538924473678 376.6581970212014L1326.4680226480868 337.4266490734135 1287.236474700299 191.01251887269459 1140.82234449958 230.24406682048246z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1141.9111154251043 170.93063247740977L1047.1245060795447 24.667074655469847 975.596668692498 159.1913714382776z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M798.547%2c586.258C840.92%2c585.646%2c882.735%2c566.021%2c902.035%2c528.294C920.025%2c493.127%2c905.983%2c452.03%2c884.005%2c419.206C864.764%2c390.469%2c833.123%2c374.467%2c798.547%2c373.733C762.473%2c372.967%2c727.062%2c385.744%2c706.565%2c415.439C682.793%2c449.88%2c669.908%2c494.514%2c689.749%2c531.36C710.391%2c569.694%2c755.014%2c586.887%2c798.547%2c586.258' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M218.07 528.43 a129.45 129.45 0 1 0 258.9 0 a129.45 129.45 0 1 0 -258.9 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1188.6659220354186 243.5965906498424L1101.027883775473 252.80771964133808 1110.2390127669687 340.4457579012837 1197.8770510269142 331.234628909788z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M327.3 210.58 a147.5 147.5 0 1 0 295 0 a147.5 147.5 0 1 0 -295 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1003'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  background-color: rgba(17, 25, 40, 0.397);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.125);
+  text-align: center;
+  padding: 5px;
+}
+
+h1 {
+  margin: 20px;
+  font-weight: 400;
+}
+
+.input-container {
+  margin: 10px;
+}
+
+input[type="text"] {
+  font-size: large;
+  backdrop-filter: blur(16px) saturate(180%);
+  background-color: rgba(17, 25, 40, 0.75);
+  border-radius: 5px;
+  border: 1px solid rgba(255, 255, 255, 0.125);
+  padding: 5px;
+}
+
+/* this will help to make sure that the whenever we click on the input text area
+the input box doesnot gets highlighted */
+input[type="text"]:focus {
+  outline: none;
+}
+
+#add-task-btn {
+  backdrop-filter: blur(16px) saturate(180%);
+  background-color: rgba(52, 90, 162, 0.75);
+  border-radius: 5px;
+  border: 1px solid rgba(255, 255, 255, 0.125);
+  padding: 5px;
+  font-size: large;
+}
+
+#add-task-btn:hover {
+  background-color: rgba(32, 61, 115, 0.75);
+}
+
+ul {
+  margin-top: 10px;
+  list-style-type: none;
+}
+
+li {
+  margin-bottom: 5px;
+  backdrop-filter: blur(16px) saturate(180%);
+  background-color: rgba(35, 44, 61, 0.75);
+  border-radius: 5px;
+  border: 1px solid rgba(255, 255, 255, 0.125);
+  font-size: large;
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+li.completed {
+  text-decoration: line-through;
+  opacity: 0.7;
+}
+
+li button {
+  backdrop-filter: blur(16px) saturate(180%);
+  background-color: rgba(162, 52, 52, 0.75);
+  border-radius: 5px;
+  border: 1px solid rgba(255, 255, 255, 0.125);
+  padding: 5px;
+  font-size: large;
+}
+
+li button:hover {
+  background-color: rgba(115, 32, 32, 0.75);
+}
